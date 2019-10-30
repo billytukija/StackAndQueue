@@ -1,0 +1,11 @@
+C:\Users\billy.richard\Documents\GitHub\StackAndQueue\StackAndQueue\bin\Debug\netcoreapp3.0\StackAndQueue.exe
+C:\Users\billy.richard\Documents\GitHub\StackAndQueue\StackAndQueue\bin\Debug\netcoreapp3.0\StackAndQueue.deps.json
+C:\Users\billy.richard\Documents\GitHub\StackAndQueue\StackAndQueue\bin\Debug\netcoreapp3.0\StackAndQueue.runtimeconfig.json
+C:\Users\billy.richard\Documents\GitHub\StackAndQueue\StackAndQueue\bin\Debug\netcoreapp3.0\StackAndQueue.runtimeconfig.dev.json
+C:\Users\billy.richard\Documents\GitHub\StackAndQueue\StackAndQueue\bin\Debug\netcoreapp3.0\StackAndQueue.dll
+C:\Users\billy.richard\Documents\GitHub\StackAndQueue\StackAndQueue\bin\Debug\netcoreapp3.0\StackAndQueue.pdb
+C:\Users\billy.richard\Documents\GitHub\StackAndQueue\StackAndQueue\obj\Debug\netcoreapp3.0\StackAndQueue.csprojAssemblyReference.cache
+C:\Users\billy.richard\Documents\GitHub\StackAndQueue\StackAndQueue\obj\Debug\netcoreapp3.0\StackAndQueue.AssemblyInfoInputs.cache
+C:\Users\billy.richard\Documents\GitHub\StackAndQueue\StackAndQueue\obj\Debug\netcoreapp3.0\StackAndQueue.AssemblyInfo.cs
+C:\Users\billy.richard\Documents\GitHub\StackAndQueue\StackAndQueue\obj\Debug\netcoreapp3.0\StackAndQueue.dll
+C:\Users\billy.richard\Documents\GitHub\StackAndQueue\StackAndQueue\obj\Debug\netcoreapp3.0\StackAndQueue.pdb
